@@ -1,0 +1,57 @@
+<PAMDataset>
+  <Metadata domain="xml:ESRI" format="xml">
+    <GeodataXform xsi:type="typens:CompositeXform" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:typens="http://www.esri.com/schemas/ArcGIS/10.1">
+      <XF_0 xsi:type="typens:ProjectiveXform">
+        <SpatialReference xsi:type="typens:UnknownCoordinateSystem">
+          <XOrigin>-2659.1264458624109</XOrigin>
+          <YOrigin>-5971.971188946628</YOrigin>
+          <XYScale>920776115453.09058</XYScale>
+          <XYTolerance>8.5265128291212042e-013</XYTolerance>
+          <HighPrecision>true</HighPrecision>
+        </SpatialReference>
+        <ProjectiveParameters xsi:type="typens:ArrayOfDouble">
+          <Double>2.1399044157751073</Double>
+          <Double>0.74838012577694724</Double>
+          <Double>1484.9352237576486</Double>
+          <Double>3.3519319112078274e-015</Double>
+          <Double>2.5137004382142614</Double>
+          <Double>-510.95807761058592</Double>
+          <Double>-1.9815595452822488e-018</Double>
+          <Double>0.00027798352734698095</Double>
+        </ProjectiveParameters>
+      </XF_0>
+      <XF_1 xsi:type="typens:PolynomialXform">
+        <PolynomialOrder>1</PolynomialOrder>
+        <SpatialReference xsi:type="typens:UnknownCoordinateSystem">
+          <XOrigin>-2659.1264458624109</XOrigin>
+          <YOrigin>-5971.971188946628</YOrigin>
+          <XYScale>920776115453.09058</XYScale>
+          <XYTolerance>8.5265128291212042e-013</XYTolerance>
+          <HighPrecision>true</HighPrecision>
+        </SpatialReference>
+        <CoeffX xsi:type="typens:ArrayOfDouble">
+          <Double>-456.8058934896078</Double>
+          <Double>1.1419634036545714</Double>
+          <Double>-0.047025530576228797</Double>
+        </CoeffX>
+        <CoeffY xsi:type="typens:ArrayOfDouble">
+          <Double>-238.36620219639667</Double>
+          <Double>0.047025530576228797</Double>
+          <Double>1.1419634036545714</Double>
+        </CoeffY>
+        <InverseCoeffX xsi:type="typens:ArrayOfDouble">
+          <Double>407.92180094707828</Double>
+          <Double>0.8742023718065236</Double>
+          <Double>0.035999253770862882</Double>
+        </InverseCoeffX>
+        <InverseCoeffY xsi:type="typens:ArrayOfDouble">
+          <Double>191.93562803484514</Double>
+          <Double>-0.035999253770863035</Double>
+          <Double>0.8742023718065236</Double>
+        </InverseCoeffY>
+        <Name />
+      </XF_1>
+      <RequireDEM>false</RequireDEM>
+    </GeodataXform>
+  </Metadata>
+</PAMDataset>
